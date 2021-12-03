@@ -1,0 +1,70 @@
+Well	Well Name	Well Type	Replicate	Threshold (dRn)	Ct (dRn)	Quantity (copies)	RSq (dRn)	Slope (dRn)	
+B5	smpl13:foraar 	Unknown	1	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C5	smpl13:foraar 	Unknown	1	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D5	smpl13:foraar 	Unknown	1	0.0300	37.39	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B4	std5e6	Standard	2	0.0300	24.18	5.00e+006	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C4	std5e6	Standard	2	0.0300	22.99	5.00e+006	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D4	std5e6	Standard	2	0.0300	25.01	5.00e+006	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E4	ntc	NTC	3	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F4	ntc	NTC	3	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G4	ntc	NTC	3	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D6	smpl12:efteraar	Unknown	4	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G5	smpl06:efteraar	Unknown	5	0.0300	No Ct	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G6	smple16:efteraar	Unknown	6	0.0300	37.42	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E6	smpl16:efteraar	Not in Use	7	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F6	smpl16:efteraar	Not in Use	7	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E5	smpl06:efteraar	Not in Use	8	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F5	smpl06:efteraar	Not in Use	8	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B6	smpl12:efteraar	Not in Use	9	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C6	smpl12:efteraar	Not in Use	9	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B10	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B11	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+B12	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C10	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C11	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+C12	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D10	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D11	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+D12	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E10	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E11	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+E12	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+F9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G7	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G8	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+G9	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+H1	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+H2	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	
+H3	---	Not in Use	---	0.0300		<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	<2 Unique FAM Standards with Reference	

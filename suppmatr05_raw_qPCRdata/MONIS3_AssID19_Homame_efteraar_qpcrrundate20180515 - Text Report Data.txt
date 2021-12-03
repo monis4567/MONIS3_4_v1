@@ -1,0 +1,73 @@
+Well	Well Name	Well Type	Replicate	Threshold (dRn)	Ct (dRn)	Quantity (copies)	RSq (dRn)	Slope (dRn)	
+B4	smpl01	Unknown	1	0.0606	No Ct	No Ct	0.983	-2.855	
+B5	smpl01	Unknown	1	0.0606	No Ct	No Ct	0.983	-2.855	
+B6	smpl01	Unknown	1	0.0606	No Ct	No Ct	0.983	-2.855	
+C4	smpl02	Unknown	2	0.0606	No Ct	No Ct	0.983	-2.855	
+C5	smpl02	Unknown	2	0.0606	No Ct	No Ct	0.983	-2.855	
+C6	smpl02	Unknown	2	0.0606	No Ct	No Ct	0.983	-2.855	
+D4	smpl03	Unknown	3	0.0606	No Ct	No Ct	0.983	-2.855	
+D5	smpl03	Unknown	3	0.0606	No Ct	No Ct	0.983	-2.855	
+D6	smpl03	Unknown	3	0.0606	No Ct	No Ct	0.983	-2.855	
+E4	smpl04	Unknown	4	0.0606	No Ct	No Ct	0.983	-2.855	
+E5	smpl04	Unknown	4	0.0606	No Ct	No Ct	0.983	-2.855	
+E6	smpl04	Unknown	4	0.0606	No Ct	No Ct	0.983	-2.855	
+F4	smpl05	Unknown	5	0.0606	No Ct	No Ct	0.983	-2.855	
+F5	smpl05	Unknown	5	0.0606	No Ct	No Ct	0.983	-2.855	
+F6	smpl05	Unknown	5	0.0606	No Ct	No Ct	0.983	-2.855	
+G4	smpl06	Unknown	6	0.0606	No Ct	No Ct	0.983	-2.855	
+G5	smpl06	Unknown	6	0.0606	No Ct	No Ct	0.983	-2.855	
+G6	smpl06	Unknown	6	0.0606	No Ct	No Ct	0.983	-2.855	
+B7	smpl07	Unknown	7	0.0606	No Ct	No Ct	0.983	-2.855	
+B8	smpl07	Unknown	7	0.0606	No Ct	No Ct	0.983	-2.855	
+B9	smpl07	Unknown	7	0.0606	No Ct	No Ct	0.983	-2.855	
+C7	smpl08	Unknown	8	0.0606	No Ct	No Ct	0.983	-2.855	
+C8	smpl08	Unknown	8	0.0606	No Ct	No Ct	0.983	-2.855	
+C9	smpl08	Unknown	8	0.0606	No Ct	No Ct	0.983	-2.855	
+D7	smpl09	Unknown	9	0.0606	No Ct	No Ct	0.983	-2.855	
+D8	smpl09	Unknown	9	0.0606	No Ct	No Ct	0.983	-2.855	
+D9	smpl09	Unknown	9	0.0606	No Ct	No Ct	0.983	-2.855	
+E7	smpl10	Unknown	10	0.0606	No Ct	No Ct	0.983	-2.855	
+E8	smpl10	Unknown	10	0.0606	No Ct	No Ct	0.983	-2.855	
+E9	smpl10	Unknown	10	0.0606	No Ct	No Ct	0.983	-2.855	
+F7	smpl11	Unknown	11	0.0606	No Ct	No Ct	0.983	-2.855	
+F8	smpl11	Unknown	11	0.0606	No Ct	No Ct	0.983	-2.855	
+F9	smpl11	Unknown	11	0.0606	No Ct	No Ct	0.983	-2.855	
+G7	smpl12	Unknown	12	0.0606	No Ct	No Ct	0.983	-2.855	
+G8	smpl12	Unknown	12	0.0606	No Ct	No Ct	0.983	-2.855	
+G9	smpl12	Unknown	12	0.0606	No Ct	No Ct	0.983	-2.855	
+B10	smpl13	Unknown	13	0.0606	No Ct	No Ct	0.983	-2.855	
+B11	smpl13	Unknown	13	0.0606	No Ct	No Ct	0.983	-2.855	
+B12	smpl13	Unknown	13	0.0606	No Ct	No Ct	0.983	-2.855	
+C10	smpl14	Unknown	14	0.0606	No Ct	No Ct	0.983	-2.855	
+C11	smpl14	Unknown	14	0.0606	No Ct	No Ct	0.983	-2.855	
+C12	smpl14	Unknown	14	0.0606	No Ct	No Ct	0.983	-2.855	
+D10	smpl15	Unknown	15	0.0606	No Ct	No Ct	0.983	-2.855	
+D11	smpl15	Unknown	15	0.0606	No Ct	No Ct	0.983	-2.855	
+D12	smpl15	Unknown	15	0.0606	No Ct	No Ct	0.983	-2.855	
+E10	smpl16	Unknown	16	0.0606	No Ct	No Ct	0.983	-2.855	
+E11	smpl16	Unknown	16	0.0606	No Ct	No Ct	0.983	-2.855	
+E12	smpl16	Unknown	16	0.0606	No Ct	No Ct	0.983	-2.855	
+B1	std5e5	Standard	17	0.0606	25.33	5.00e+005	0.983	-2.855	
+B2	std5e5	Standard	17	0.0606	25.11	5.00e+005	0.983	-2.855	
+B3	std5e5	Standard	17	0.0606	25.10	5.00e+005	0.983	-2.855	
+C1	std5e4	Standard	18	0.0606	28.02	5.00e+004	0.983	-2.855	
+C2	std5e4	Standard	18	0.0606	28.11	5.00e+004	0.983	-2.855	
+C3	std5e4	Standard	18	0.0606	27.90	5.00e+004	0.983	-2.855	
+D1	std5e3	Standard	19	0.0606	31.37	5.00e+003	0.983	-2.855	
+D2	std5e3	Standard	19	0.0606	31.36	5.00e+003	0.983	-2.855	
+D3	std5e3	Standard	19	0.0606	31.18	5.00e+003	0.983	-2.855	
+E1	std5e2	Standard	20	0.0606	34.24	5.00e+002	0.983	-2.855	
+E2	std5e2	Standard	20	0.0606	34.75	5.00e+002	0.983	-2.855	
+E3	std5e2	Standard	20	0.0606	34.50	5.00e+002	0.983	-2.855	
+F1	std5e1	Standard	21	0.0606	36.94	5.00e+001	0.983	-2.855	
+F2	std5e1	Standard	21	0.0606	37.03	5.00e+001	0.983	-2.855	
+F3	std5e1	Standard	21	0.0606	37.90	5.00e+001	0.983	-2.855	
+G1	std5e0	Standard	22	0.0606	39.43	5.00e+000	0.983	-2.855	
+G2	std5e0	Standard	22	0.0606	No Ct	No Ct	0.983	-2.855	
+G3	std5e0	Standard	22	0.0606	37.76	5.00e+000	0.983	-2.855	
+H1	ntc	NTC	23	0.0606	No Ct	No Ct	0.983	-2.855	
+H2	ntc	NTC	23	0.0606	No Ct	No Ct	0.983	-2.855	
+H3	ntc	NTC	23	0.0606	No Ct	No Ct	0.983	-2.855	
+F10	not_used	NTC	24	0.0606	No Ct	No Ct	0.983	-2.855	
+F11	not_used	NTC	24	0.0606	No Ct	No Ct	0.983	-2.855	
+F12	not_used	NTC	24	0.0606	No Ct	No Ct	0.983	-2.855	

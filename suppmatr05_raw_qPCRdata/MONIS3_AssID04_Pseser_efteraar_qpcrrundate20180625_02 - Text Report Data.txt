@@ -1,0 +1,70 @@
+Well	Well Name	Well Type	Replicate	Threshold (dRn)	Ct (dRn)	Quantity (copies)	RSq (dRn)	Slope (dRn)	
+B4	smpl01	Unknown	1	0.0558	35.39	6.27	0.997	-2.959	
+B5	smpl01	Unknown	1	0.0558	37.39	1.32	0.997	-2.959	
+B6	smpl01	Unknown	1	0.0558	35.85	4.37	0.997	-2.959	
+C4	smpl02	Unknown	2	0.0558	No Ct	No Ct	0.997	-2.959	
+C5	smpl02	Unknown	2	0.0558	No Ct	No Ct	0.997	-2.959	
+C6	smpl02	Unknown	2	0.0558	No Ct	No Ct	0.997	-2.959	
+D4	smpl03	Unknown	3	0.0558	32.74	4.935e+001	0.997	-2.959	
+D5	smpl03	Unknown	3	0.0558	33.06	3.847e+001	0.997	-2.959	
+D6	smpl03	Unknown	3	0.0558	32.98	4.080e+001	0.997	-2.959	
+E4	smpl04	Unknown	4	0.0558	33.56	2.600e+001	0.997	-2.959	
+E5	smpl04	Unknown	4	0.0558	33.90	1.999e+001	0.997	-2.959	
+E6	smpl04	Unknown	4	0.0558	33.84	2.098e+001	0.997	-2.959	
+F4	smpl05	Unknown	5	0.0558	No Ct	No Ct	0.997	-2.959	
+F5	smpl05	Unknown	5	0.0558	No Ct	No Ct	0.997	-2.959	
+F6	smpl05	Unknown	5	0.0558	No Ct	No Ct	0.997	-2.959	
+G4	smpl06	Unknown	6	0.0558	No Ct	No Ct	0.997	-2.959	
+G5	smpl06	Unknown	6	0.0558	No Ct	No Ct	0.997	-2.959	
+G6	smpl06	Unknown	6	0.0558	No Ct	No Ct	0.997	-2.959	
+B7	smpl07	Unknown	7	0.0558	No Ct	No Ct	0.997	-2.959	
+B8	smpl07	Unknown	7	0.0558	No Ct	No Ct	0.997	-2.959	
+B9	smpl07	Unknown	7	0.0558	No Ct	No Ct	0.997	-2.959	
+C7	smpl08	Unknown	8	0.0558	No Ct	No Ct	0.997	-2.959	
+C8	smpl08	Unknown	8	0.0558	No Ct	No Ct	0.997	-2.959	
+C9	smpl08	Unknown	8	0.0558	No Ct	No Ct	0.997	-2.959	
+D7	smpl09	Unknown	9	0.0558	No Ct	No Ct	0.997	-2.959	
+D8	smpl09	Unknown	9	0.0558	No Ct	No Ct	0.997	-2.959	
+D9	smpl09	Unknown	9	0.0558	No Ct	No Ct	0.997	-2.959	
+E7	smpl10	Unknown	10	0.0558	34.89	9.25	0.997	-2.959	
+E8	smpl10	Unknown	10	0.0558	34.95	8.81	0.997	-2.959	
+E9	smpl10	Unknown	10	0.0558	34.55	1.199e+001	0.997	-2.959	
+F7	smpl11	Unknown	11	0.0558	No Ct	No Ct	0.997	-2.959	
+F8	smpl11	Unknown	11	0.0558	No Ct	No Ct	0.997	-2.959	
+F9	smpl11	Unknown	11	0.0558	No Ct	No Ct	0.997	-2.959	
+G7	smpl12	Unknown	12	0.0558	No Ct	No Ct	0.997	-2.959	
+G8	smpl12	Unknown	12	0.0558	No Ct	No Ct	0.997	-2.959	
+G9	smpl12	Unknown	12	0.0558	No Ct	No Ct	0.997	-2.959	
+B10	smpl13	Unknown	13	0.0558	35.90	4.20	0.997	-2.959	
+B11	smpl13	Unknown	13	0.0558	35.37	6.38	0.997	-2.959	
+B12	smpl13	Unknown	13	0.0558	35.15	7.52	0.997	-2.959	
+C10	smpl14	Unknown	14	0.0558	No Ct	No Ct	0.997	-2.959	
+C11	smpl14	Unknown	14	0.0558	No Ct	No Ct	0.997	-2.959	
+C12	smpl14	Unknown	14	0.0558	No Ct	No Ct	0.997	-2.959	
+D10	smpl15	Unknown	15	0.0558	No Ct	No Ct	0.997	-2.959	
+D11	smpl15	Unknown	15	0.0558	No Ct	No Ct	0.997	-2.959	
+D12	smpl15	Unknown	15	0.0558	No Ct	No Ct	0.997	-2.959	
+E10	smpl16	Unknown	16	0.0558	No Ct	No Ct	0.997	-2.959	
+E11	smpl16	Unknown	16	0.0558	No Ct	No Ct	0.997	-2.959	
+E12	smpl16	Unknown	16	0.0558	No Ct	No Ct	0.997	-2.959	
+B1	std5e5	Standard	17	0.0558	20.92	5.00e+005	0.997	-2.959	
+B2	std5e5	Standard	17	0.0558	21.14	5.00e+005	0.997	-2.959	
+B3	std5e5	Standard	17	0.0558	21.01	5.00e+005	0.997	-2.959	
+C1	std5e4	Standard	18	0.0558	23.82	5.00e+004	0.997	-2.959	
+C2	std5e4	Standard	18	0.0558	24.07	5.00e+004	0.997	-2.959	
+C3	std5e4	Standard	18	0.0558	23.72	5.00e+004	0.997	-2.959	
+D1	std5e3	Standard	19	0.0558	26.45	5.00e+003	0.997	-2.959	
+D2	std5e3	Standard	19	0.0558	26.75	5.00e+003	0.997	-2.959	
+D3	std5e3	Standard	19	0.0558	26.88	5.00e+003	0.997	-2.959	
+E1	std5e2	Standard	20	0.0558	29.45	5.00e+002	0.997	-2.959	
+E2	std5e2	Standard	20	0.0558	29.28	5.00e+002	0.997	-2.959	
+E3	std5e2	Standard	20	0.0558	29.73	5.00e+002	0.997	-2.959	
+F1	std5e1	Standard	21	0.0558	32.49	5.00e+001	0.997	-2.959	
+F2	std5e1	Standard	21	0.0558	33.07	5.00e+001	0.997	-2.959	
+F3	std5e1	Standard	21	0.0558	32.86	5.00e+001	0.997	-2.959	
+G1	std5e0	Standard	22	0.0558	35.87	5.00e+000	0.997	-2.959	
+G2	std5e0	Standard	22	0.0558	36.21	5.00e+000	0.997	-2.959	
+G3	std5e0	Standard	22	0.0558	35.36	5.00e+000	0.997	-2.959	
+H1	ntc	NTC	23	0.0558	No Ct	No Ct	0.997	-2.959	
+H2	ntc	NTC	23	0.0558	No Ct	No Ct	0.997	-2.959	
+H3	ntc	NTC	23	0.0558	No Ct	No Ct	0.997	-2.959	

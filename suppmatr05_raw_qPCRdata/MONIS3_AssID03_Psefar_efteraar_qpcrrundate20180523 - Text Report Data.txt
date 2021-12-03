@@ -1,0 +1,73 @@
+Well	Well Name	Well Type	Replicate	Threshold (dRn)	Ct (dRn)	Quantity (copies)	RSq (dRn)	Slope (dRn)	
+B4	smpl01	Unknown	1	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B5	smpl01	Unknown	1	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B6	smpl01	Unknown	1	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C4	smpl02	Unknown	2	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C5	smpl02	Unknown	2	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C6	smpl02	Unknown	2	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D4	smpl03	Unknown	3	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D5	smpl03	Unknown	3	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D6	smpl03	Unknown	3	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E4	smpl04	Unknown	4	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E5	smpl04	Unknown	4	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E6	smpl04	Unknown	4	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F4	smpl05	Unknown	5	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F5	smpl05	Unknown	5	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F6	smpl05	Unknown	5	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G4	smpl06	Unknown	6	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G5	smpl06	Unknown	6	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G6	smpl06	Unknown	6	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B7	smpl07	Unknown	7	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B8	smpl07	Unknown	7	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B9	smpl07	Unknown	7	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C7	smpl08	Unknown	8	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C8	smpl08	Unknown	8	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C9	smpl08	Unknown	8	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D7	smpl09	Unknown	9	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D8	smpl09	Unknown	9	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D9	smpl09	Unknown	9	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E7	smpl10	Unknown	10	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E8	smpl10	Unknown	10	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E9	smpl10	Unknown	10	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F7	smpl11	Unknown	11	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F8	smpl11	Unknown	11	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F9	smpl11	Unknown	11	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G7	smpl12	Unknown	12	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G8	smpl12	Unknown	12	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+G9	smpl12	Unknown	12	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B10	smpl13	Unknown	13	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B11	smpl13	Unknown	13	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B12	smpl13	Unknown	13	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C10	smpl14	Unknown	14	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C11	smpl14	Unknown	14	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+C12	smpl14	Unknown	14	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D10	smpl15	Unknown	15	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D11	smpl15	Unknown	15	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+D12	smpl15	Unknown	15	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E10	smpl16	Unknown	16	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E11	smpl16	Unknown	16	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+E12	smpl16	Unknown	16	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+B1	std5e5	Standard	17	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+B2	std5e5	Standard	17	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+B3	std5e5	Standard	17	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+C1	std5e4	Standard	18	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+C2	std5e4	Standard	18	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+C3	std5e4	Standard	18	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+D1	std5e3	Standard	19	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+D2	std5e3	Standard	19	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+D3	std5e3	Standard	19	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+E1	std5e2	Standard	20	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+E2	std5e2	Standard	20	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+E3	std5e2	Standard	20	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+F1	std5e1	Standard	21	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+F2	std5e1	Standard	21	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+F3	std5e1	Standard	21	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+G1	std5e0	Standard	22	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+G2	std5e0	Standard	22	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+G3	std5e0	Standard	22	0.0459	No Ct	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	
+H1	ntc	NTC	23	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+H2	ntc	NTC	23	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+H3	ntc	NTC	23	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F10	not_used	NTC	24	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F11	not_used	NTC	24	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	
+F12	not_used	NTC	24	0.0459	No Ct	No Ct for FAM Standards	No Ct for FAM Standards	No Ct for FAM Standards	

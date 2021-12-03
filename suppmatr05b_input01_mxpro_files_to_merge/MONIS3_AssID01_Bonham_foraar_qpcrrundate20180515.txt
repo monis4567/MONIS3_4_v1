@@ -1,0 +1,73 @@
+Well	Well Name	Well Type	Replicate	Threshold (dRn)	Ct (dRn)	Quantity (copies)	RSq (dRn)	Slope (dRn)	
+B4	smpl01	Unknown	1	0.0477	No Ct	No Ct	0.954	-2.076	
+B5	smpl01	Unknown	1	0.0477	No Ct	No Ct	0.954	-2.076	
+B6	smpl01	Unknown	1	0.0477	No Ct	No Ct	0.954	-2.076	
+C4	smpl02	Unknown	2	0.0477	35.01	3.869e-001	0.954	-2.076	
+C5	smpl02	Unknown	2	0.0477	35.07	3.617e-001	0.954	-2.076	
+C6	smpl02	Unknown	2	0.0477	34.59	6.166e-001	0.954	-2.076	
+D4	smpl03	Unknown	3	0.0477	No Ct	No Ct	0.954	-2.076	
+D5	smpl03	Unknown	3	0.0477	No Ct	No Ct	0.954	-2.076	
+D6	smpl03	Unknown	3	0.0477	No Ct	No Ct	0.954	-2.076	
+E4	smpl04	Unknown	4	0.0477	No Ct	No Ct	0.954	-2.076	
+E5	smpl04	Unknown	4	0.0477	No Ct	No Ct	0.954	-2.076	
+E6	smpl04	Unknown	4	0.0477	No Ct	No Ct	0.954	-2.076	
+F4	smpl05	Unknown	5	0.0477	No Ct	No Ct	0.954	-2.076	
+F5	smpl05	Unknown	5	0.0477	No Ct	No Ct	0.954	-2.076	
+F6	smpl05	Unknown	5	0.0477	No Ct	No Ct	0.954	-2.076	
+G4	smpl06	Unknown	6	0.0477	No Ct	No Ct	0.954	-2.076	
+G5	smpl06	Unknown	6	0.0477	No Ct	No Ct	0.954	-2.076	
+G6	smpl06	Unknown	6	0.0477	No Ct	No Ct	0.954	-2.076	
+B7	smpl07	Unknown	7	0.0477	No Ct	No Ct	0.954	-2.076	
+B8	smpl07	Unknown	7	0.0477	No Ct	No Ct	0.954	-2.076	
+B9	smpl07	Unknown	7	0.0477	No Ct	No Ct	0.954	-2.076	
+C7	smpl08	Unknown	8	0.0477	No Ct	No Ct	0.954	-2.076	
+C8	smpl08	Unknown	8	0.0477	No Ct	No Ct	0.954	-2.076	
+C9	smpl08	Unknown	8	0.0477	38.45	8.573e-003	0.954	-2.076	
+D7	smpl09	Unknown	9	0.0477	No Ct	No Ct	0.954	-2.076	
+D8	smpl09	Unknown	9	0.0477	No Ct	No Ct	0.954	-2.076	
+D9	smpl09	Unknown	9	0.0477	No Ct	No Ct	0.954	-2.076	
+E7	smpl10	Unknown	10	0.0477	No Ct	No Ct	0.954	-2.076	
+E8	smpl10	Unknown	10	0.0477	No Ct	No Ct	0.954	-2.076	
+E9	smpl10	Unknown	10	0.0477	No Ct	No Ct	0.954	-2.076	
+F7	smpl11	Unknown	11	0.0477	No Ct	No Ct	0.954	-2.076	
+F8	smpl11	Unknown	11	0.0477	No Ct	No Ct	0.954	-2.076	
+F9	smpl11	Unknown	11	0.0477	No Ct	No Ct	0.954	-2.076	
+G7	smpl12	Unknown	12	0.0477	No Ct	No Ct	0.954	-2.076	
+G8	smpl12	Unknown	12	0.0477	No Ct	No Ct	0.954	-2.076	
+G9	smpl12	Unknown	12	0.0477	No Ct	No Ct	0.954	-2.076	
+B10	smpl13	Unknown	13	0.0477	No Ct	No Ct	0.954	-2.076	
+B11	smpl13	Unknown	13	0.0477	No Ct	No Ct	0.954	-2.076	
+B12	smpl13	Unknown	13	0.0477	No Ct	No Ct	0.954	-2.076	
+C10	smpl14	Unknown	14	0.0477	No Ct	No Ct	0.954	-2.076	
+C11	smpl14	Unknown	14	0.0477	No Ct	No Ct	0.954	-2.076	
+C12	smpl14	Unknown	14	0.0477	No Ct	No Ct	0.954	-2.076	
+D10	smpl15	Unknown	15	0.0477	No Ct	No Ct	0.954	-2.076	
+D11	smpl15	Unknown	15	0.0477	No Ct	No Ct	0.954	-2.076	
+D12	smpl15	Unknown	15	0.0477	No Ct	No Ct	0.954	-2.076	
+E10	smpl16	Unknown	16	0.0477	No Ct	No Ct	0.954	-2.076	
+E11	smpl16	Unknown	16	0.0477	No Ct	No Ct	0.954	-2.076	
+E12	smpl16	Unknown	16	0.0477	No Ct	No Ct	0.954	-2.076	
+B1	std5e5	Standard	17	0.0477	22.83	5.00e+005	0.954	-2.076	
+B2	std5e5	Standard	17	0.0477	24.15	5.00e+005	0.954	-2.076	
+B3	std5e5	Standard	17	0.0477	22.40	5.00e+005	0.954	-2.076	
+C1	std5e4	Standard	18	0.0477	24.29	5.00e+004	0.954	-2.076	
+C2	std5e4	Standard	18	0.0477	24.59	5.00e+004	0.954	-2.076	
+C3	std5e4	Standard	18	0.0477	24.13	5.00e+004	0.954	-2.076	
+D1	std5e3	Standard	19	0.0477	26.12	5.00e+003	0.954	-2.076	
+D2	std5e3	Standard	19	0.0477	25.74	5.00e+003	0.954	-2.076	
+D3	std5e3	Standard	19	0.0477	25.24	5.00e+003	0.954	-2.076	
+E1	std5e2	Standard	20	0.0477	28.19	5.00e+002	0.954	-2.076	
+E2	std5e2	Standard	20	0.0477	27.88	5.00e+002	0.954	-2.076	
+E3	std5e2	Standard	20	0.0477	28.15	5.00e+002	0.954	-2.076	
+F1	std5e1	Standard	21	0.0477	30.10	5.00e+001	0.954	-2.076	
+F2	std5e1	Standard	21	0.0477	30.30	5.00e+001	0.954	-2.076	
+F3	std5e1	Standard	21	0.0477	29.92	5.00e+001	0.954	-2.076	
+G1	std5e0	Standard	22	0.0477	33.95	5.00e+000	0.954	-2.076	
+G2	std5e0	Standard	22	0.0477	33.42	5.00e+000	0.954	-2.076	
+G3	std5e0	Standard	22	0.0477	33.81	5.00e+000	0.954	-2.076	
+H1	ntc	NTC	23	0.0477	No Ct	No Ct	0.954	-2.076	
+H2	ntc	NTC	23	0.0477	No Ct	No Ct	0.954	-2.076	
+H3	ntc	NTC	23	0.0477	No Ct	No Ct	0.954	-2.076	
+F10	not_used	NTC	24	0.0477	No Ct	No Ct	0.954	-2.076	
+F11	not_used	NTC	24	0.0477	No Ct	No Ct	0.954	-2.076	
+F12	not_used	NTC	24	0.0477	No Ct	No Ct	0.954	-2.076	

@@ -1,0 +1,24 @@
+Species_name,spcNo,AalborgHavn,Aalborgportland,Aarhus,Esbjerg,Fredericia,Frederikshavn,Gedser,Grenaa,Helsingoer,Hirtshals,Kalundborg,KalundborgStatiolHavn,Koebenhavn,Koege,Odense,Roedby
+Acipenser_baerii,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acipenser_gueldenstaedtii,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acipenser_ruthenus,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bonnemaisonia_hamifera,1,0,0,0,0,0,1A,0,0,0,0,0,0,0,0,0,0
+Carassius_auratus,6,0,0,0,0,0,0,0,0,0,0,0,0,1I,0,0,0
+Colpomenia_peregrine,8,1F,1F,0,0,0,1F,0,0,0,0,0,0,0,0,0,0
+Cordylophora_caspia,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crassostrea_gigas,14,2,2,0,2,0,0,0,0,2,0,1F,0,2,0,0,0
+Cyprinus_carpio,7,0,0,0,0,0,0,0,0,0,0,1E,1E,0,0,0,0
+Eriocheir_sinensis,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Homarus_americanus,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karenia_mikimotoi,5,1G,1G,1G,2D,1G,1G,0,1G,1G,1G,1G,1G,1G,0,1G,0
+Mnemiopsis_leidyi,20,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,2
+Mya_arenaria,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neogobius_melanostomus,9,0,0,0,0,0,0,2,0,0,0,2,2,2,2,0,2
+Oncorhynchus_mykiss,10,1I,1I,1I,0,0,0,0,1I,1I,0,1I,1I,1I,1I,1I,0
+Oncorhyncus_gorbuscha,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paralithodes_camtschaticus,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prorocentrum_minimum,2,1G,1G,1G,2B,1G,1G,1G,1G,1G,1G,1G,1G,1G,1G,1G,1G
+Pseudochattonella_farcimen,3,0,0,1H,2C,1H,1H,0,1H,0,1H,1H,1H,0,0,1H,0
+Pseudochattonella_serruculata,4,0,0,1H,2C,1H,1H,0,1H,0,1H,1H,1H,0,0,1H,0
+Rhithropanopeus_harrisii,16,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+"Table 7. Conventional monitoring. Never found (0), found before MONIS4 (1) and found during MONIS4 in 2017. Letters represents footnotes. (A) found in Frederikshavn in 1981, (B) mentioned as Prorocentrum on page 24, (C) Mentioned as Pseudochattonella on page 52, (D) Mentioned as  Karenia on page 52, (E) caught in 2010, (F) PRM pers obs. 2010, (G) NIRAS, (H) NIRAS, (I) FiskeAtlas.",,,,,,,,,,,,,,,,,
